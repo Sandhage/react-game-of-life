@@ -1,7 +1,6 @@
 # Conway's Game of Life 
 
-This project is an exercise in building [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). I was given this challenge as part of a take home challenge for a job interview that I did not pass so I wanted to try again and see if I can improve.
-
+This project is an exercise in building [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 I think I will also use this opportunity to really practice a more test driven approach to development, since I haven't had much exposure to that in my previous roles.
 
 ## Available Scripts
